@@ -31,8 +31,8 @@ I'm just another tech enthusiast.<br><br>
 ## My Achievements:
  [![trophy](https://github-profile-trophy.vercel.app/?username=Kumar-Kushagra&margin-w=15&margin-h=15&&column=7&theme=flat)](https://github.com/Kumar-Kushagra/github-profile-trophy)
 
-## My Streaks:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kumar-Kushagra)](https://git.io/streak-stats)  
+<!-- ## My Streaks:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kumar-Kushagra)](https://git.io/streak-stats)   -->
 
 ![Profile views](https://gpvc.arturio.dev/Kumar-Kushagra)  
 
