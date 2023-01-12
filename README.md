@@ -27,6 +27,14 @@ I'm just another tech enthusiast.<br><br>
   <img align="center" alt="KumarKushagra-MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"><br>
 <div> 
 </div>
+  
+## My Achievements:
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Kumar-Kushagra&margin-w=15&margin-h=15&&column=7&theme=flat)](https://github.com/Kumar-Kushagra/github-profile-trophy)
+
+## My Streaks:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kumar-Kushagra)](https://git.io/streak-stats)  
+
+![Profile views](https://gpvc.arturio.dev/Kumar-Kushagra)  
 
 ## Show your support
 - Give a ⭐ if you like any project!
@@ -34,3 +42,4 @@ I'm just another tech enthusiast.<br><br>
 ## Feel free to get in touch
 - I'll appreciate your contact for any reason. <br><br>
  [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/kumar-kushagra/)               [<img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>](https://twitter.com/KushagraK7)           [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>](https://www.instagram.com/kushagra_srivastavaa/)  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>](https://www.facebook.com/kumarkushagra22)       [<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:kumarkushagra97@gmail.com)   [<img src="https://img.icons8.com/fluent/48/000000/github.png"/>](https://github.com/Kumar-Kushagra) 
+  
