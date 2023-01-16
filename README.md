@@ -13,20 +13,20 @@ I'm just another tech enthusiast.<br><br>
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kumar-Kushagra&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## My Strengths:
+<!-- ## My Strengths:
 <div style="display: inline_block">
   <img align="center" alt="KumarKushagra-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="KumarKushagra-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="KumarKushagra-Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
-  <img align="center" alt="KumarKushagra-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="KumarKushagra-React Native" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
+  <img align="center" alt="KumarKushagra-IOS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="KumarKushagra-Android" height="30" src="https://icons8.com/icon/ZoxjA0jZDdFZ/kotlin">
   <img align="center" alt="KumarKushagra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="KumarKushagra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="KumarKushagra-SASS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="KumarKushagra-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="KumarKushagra-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="KumarKushagra-Git" height="29" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"> 
   <img align="center" alt="KumarKushagra-MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"><br>
 <div> 
-</div>
+</div> -->
   
 ## My Achievements:
  [![trophy](https://github-profile-trophy.vercel.app/?username=Kumar-Kushagra&margin-w=15&margin-h=15&&column=7&theme=flat)](https://github.com/Kumar-Kushagra/github-profile-trophy)
